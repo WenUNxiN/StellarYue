@@ -6,6 +6,9 @@ hero:
   name: "星跃 | StellarYue"
   text: "Stellan W."
   tagline: 以星为向，以技为跃
+  image: 
+    src: /logo.png
+    alt: logo
   actions:
     - theme: brand
       text: Markdown Examples
