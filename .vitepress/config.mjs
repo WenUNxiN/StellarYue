@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/Stellaryue/',
-  title: "星跃 | Stellan’s Blog",
+  base: '/StellarYue/',
+  title: "星跃 | StellarYue",
   description: "以星为向，以技为跃",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
